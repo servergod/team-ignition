@@ -1,1 +1,19 @@
-This is Admiralspark checking in.
+Welcome to Team Ignition's private repository.
+We will be using this to host any testing builds that we do not want
+publicly accessible, as well as anything else we may se fit to host.
+This is to ensure that we don't have to deal with support nightmares.
+
+So, check in process:
+0) Get frustro to add you. This HAS to be done.
+git clone git@github.com:servergod/team-ignition.git
+// this will greate a folder called "team-ignition" with this README in it
+cd team-ignition
+nano README 
+// or whatever editor you use, gedit works fine too
+Now add your username below! Then,
+git add README
+git commit -m 'username first commit'
+// replace your username
+git push origin master
+
+Admiralspark checking in!
