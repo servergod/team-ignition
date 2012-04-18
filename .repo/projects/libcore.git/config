@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_libcore
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_libcore
+	fetch = +refs/heads/*:refs/remotes/github/*

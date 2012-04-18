@@ -1,0 +1,13 @@
+85f7123773b95e71ceecccc2ca8622231a7943bd		branch 'eclair' of git://github.com/CyanogenMod/android_packages_apps_Email
+975ba1b8740b1aeadce3631893d7f571b54940df		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Email
+975ba1b8740b1aeadce3631893d7f571b54940df		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Email
+2a0f2a677197ac2cbee938937e6a3a493dcb5cb9		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Email
+2a0f2a677197ac2cbee938937e6a3a493dcb5cb9		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Email
+5f217e0765610e582e2882d3ac4bf9c9a3bf0183		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Email
+439f11f5f8b53ad0de62116d0652a2e037519381		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Email
+11310506f21c74a17ee50bbf751bc84a665c6421		branch 'master' of git://github.com/CyanogenMod/android_packages_apps_Email
+a812bfc098dd2af1ceba38cb325c863f937ecb38	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Email
+9e8da2ac5ef6f6983175a80b34ed3d00e2d3dd21	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Email
+9e8da2ac5ef6f6983175a80b34ed3d00e2d3dd21	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Email
+9e8da2ac5ef6f6983175a80b34ed3d00e2d3dd21	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Email
+5f217e0765610e582e2882d3ac4bf9c9a3bf0183	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Email

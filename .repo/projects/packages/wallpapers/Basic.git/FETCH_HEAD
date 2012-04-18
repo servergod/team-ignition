@@ -1,0 +1,12 @@
+b8820d500406b26d4821c4dd2b9c24dc14d3ec34		branch 'eclair' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+f2be59c76bffe0991c7058bacad1b59d75b360cb		branch 'froyo' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+f2be59c76bffe0991c7058bacad1b59d75b360cb		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+714af5a48b3f93de04ae2de02e19b36aed0a8fe9		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+714af5a48b3f93de04ae2de02e19b36aed0a8fe9		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+d15159021e87ff497661a442aecdb2e74c0ac918		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+31b1273954aad0ed70c3152971b449d1c6a68f4e		branch 'ics' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+c6bcaaee6a1b336d7cebf9cb71fa409fa02c615f	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+c6bcaaee6a1b336d7cebf9cb71fa409fa02c615f	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+c6bcaaee6a1b336d7cebf9cb71fa409fa02c615f	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+c6bcaaee6a1b336d7cebf9cb71fa409fa02c615f	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic
+d15159021e87ff497661a442aecdb2e74c0ac918	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_wallpapers_Basic

@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_device_samsung_maguro
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_device_samsung_maguro
+	fetch = +refs/heads/*:refs/remotes/github/*

@@ -1,0 +1,6 @@
+# pack-refs with: peeled 
+f16b5fdc2102953f6b915472200061e17e76702b refs/remotes/github/gb-release-7.2
+f16b5fdc2102953f6b915472200061e17e76702b refs/remotes/github/gingerbread
+f16b5fdc2102953f6b915472200061e17e76702b refs/remotes/github/gingerbread-release
+82fe084c750cb2e6c839ec8b6aad5e2bb87c14dd refs/remotes/github/ics
+f16b5fdc2102953f6b915472200061e17e76702b refs/tags/cm-7.1.0

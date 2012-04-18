@@ -1,0 +1,22 @@
+d9ed2f88439b967a46f91681333bd627d9c64e57		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/support
+97b3c54fa1e1d75a87fd2429606c615894953946		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/support
+bfc8e01b7b0d5ea70ce89d0409b72b7f7d540f43		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/support
+da7280f2b04f3fc98df72e860f1b0c607ae30c7b		branch 'master' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/support
+4c0a3a36ec67eb02b6e78a59ee8574f8bb285b8c	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/support
+4c0a3a36ec67eb02b6e78a59ee8574f8bb285b8c	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/frameworks/support
+bfc8e01b7b0d5ea70ce89d0409b72b7f7d540f43	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/frameworks/support
+bfc8e01b7b0d5ea70ce89d0409b72b7f7d540f43	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/support

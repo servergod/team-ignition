@@ -1,0 +1,22 @@
+82635d92bc0f2186da650a00fa458d1c542e2ec9		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Gallery2
+756f9bc72468a6fba926602b86525aed7bb05b40		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Gallery2
+756f9bc72468a6fba926602b86525aed7bb05b40		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a64072a481580cbe3f3166f0c6d4424b20f1275c		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a66c0c1b4545131a78b6760d7c8ce6e09dd5e1f5		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Gallery2
+5e73e2dcb3cea2d87a4c82c7e89919b3c766d3b0		branch 'master' of https://android.googlesource.com/platform/packages/apps/Gallery2
+82635d92bc0f2186da650a00fa458d1c542e2ec9	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+82635d92bc0f2186da650a00fa458d1c542e2ec9	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+82635d92bc0f2186da650a00fa458d1c542e2ec9	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Gallery2
+756f9bc72468a6fba926602b86525aed7bb05b40	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+8da14d2f31f538832e1613037d932d48fb49be6e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+8da14d2f31f538832e1613037d932d48fb49be6e	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a66c0c1b4545131a78b6760d7c8ce6e09dd5e1f5	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a66c0c1b4545131a78b6760d7c8ce6e09dd5e1f5	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a8e684f5da3e761debf8ae93ecdb63a8d9e3c7a3	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+8f568da373699781beb11cfa46a46c5871288353	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/packages/apps/Gallery2
+756f9bc72468a6fba926602b86525aed7bb05b40	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a8e684f5da3e761debf8ae93ecdb63a8d9e3c7a3	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a8e684f5da3e761debf8ae93ecdb63a8d9e3c7a3	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a8e684f5da3e761debf8ae93ecdb63a8d9e3c7a3	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+a8e684f5da3e761debf8ae93ecdb63a8d9e3c7a3	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Gallery2
+756f9bc72468a6fba926602b86525aed7bb05b40	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Gallery2

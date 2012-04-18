@@ -1,0 +1,12 @@
+# pack-refs with: peeled 
+c12d330ddc951c5e6761c0535a4c5dd079d0a777 refs/remotes/github/bash-4.1-eclair
+7bd059bed4786e907beea8049e8eec24e86b4d86 refs/remotes/github/bash-4.1-froyo
+3fc9de137941ea01501dc11cfec22c16963b5876 refs/remotes/github/gb-release-7.2
+3fc9de137941ea01501dc11cfec22c16963b5876 refs/remotes/github/gingerbread
+3fc9de137941ea01501dc11cfec22c16963b5876 refs/remotes/github/gingerbread-release
+791237e44695d2ee123c8a6f665ef074f5fadfbb refs/remotes/github/ics
+744878f09637fad57e28c5eb5e277cdb50b26485 refs/tags/cm-7.0.0
+744878f09637fad57e28c5eb5e277cdb50b26485 refs/tags/cm-7.0.1
+744878f09637fad57e28c5eb5e277cdb50b26485 refs/tags/cm-7.0.2.1
+744878f09637fad57e28c5eb5e277cdb50b26485 refs/tags/cm-7.0.3
+3fc9de137941ea01501dc11cfec22c16963b5876 refs/tags/cm-7.1.0

@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_packages_apps_PackageInstaller
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_packages_apps_PackageInstaller
+	fetch = +refs/heads/*:refs/remotes/github/*

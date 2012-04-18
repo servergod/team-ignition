@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 a618b151d54625078424bc5940f6bfd63344d11b Indirect <Indirect@localhost.(none)> 1334707068 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/external/jsilver.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

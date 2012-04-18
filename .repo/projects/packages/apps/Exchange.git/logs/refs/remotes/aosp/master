@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 b52a94118b8f612277d948dc926e928f12bc2026 Indirect <Indirect@localhost.(none)> 1334707414 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/packages/apps/Exchange.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+b52a94118b8f612277d948dc926e928f12bc2026 3d69fb18852edebc31aa34d2bf86ac0349279427 Indirect <Indirect@localhost.(none)> 1334707416 -0700	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

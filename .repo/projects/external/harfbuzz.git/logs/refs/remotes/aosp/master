@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5deafc828f0892d6c75f12067bc366cc70475802 Indirect <Indirect@localhost.(none)> 1334707045 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/external/harfbuzz.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+5deafc828f0892d6c75f12067bc366cc70475802 bae491c03a00757d83ede8d855b7d85d246bde3d Indirect <Indirect@localhost.(none)> 1334707046 -0700	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

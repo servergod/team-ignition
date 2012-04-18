@@ -1,0 +1,5 @@
+14740a4557728ba63348e0574507a71fa40a8bd4		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_iproute2
+14740a4557728ba63348e0574507a71fa40a8bd4		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_iproute2
+14740a4557728ba63348e0574507a71fa40a8bd4		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_iproute2
+7b05f9426cc014506ced5ff5fc88ae8d04dd5666		branch 'ics' of git://github.com/CyanogenMod/android_external_iproute2
+14740a4557728ba63348e0574507a71fa40a8bd4	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_iproute2

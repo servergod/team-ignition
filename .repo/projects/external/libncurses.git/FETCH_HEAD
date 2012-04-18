@@ -1,0 +1,11 @@
+13c1a56b19c844f24bb6508123f63e5f02479037		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037		branch 'ics' of git://github.com/CyanogenMod/android_external_libncurses
+6018c68c8259a82ed665045fbbfe377bb78f8765		branch 'libncurses-5.7-eclair' of git://github.com/CyanogenMod/android_external_libncurses
+6018c68c8259a82ed665045fbbfe377bb78f8765		branch 'libncurses-5.7-froyo' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_libncurses
+13c1a56b19c844f24bb6508123f63e5f02479037	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_libncurses

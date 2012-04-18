@@ -1,0 +1,12 @@
+25e98bfd43820386009283757ab623f4d449c953		branch 'eclair' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+13d1110cb8aca41e07494cc37da204e755c7883a		branch 'froyo' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+13d1110cb8aca41e07494cc37da204e755c7883a		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+a80e37822d1254d07afe2ae3530162fb697555ae		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+3aeba34a3ce4e3d95fc8335364e35f73799bf9bb		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+ac8521c5f94249a33ad7ba870467904b08904101		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+808c3e1f3f721e1f046bb4b394be3b9520f101b1		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+1b08e634cec80b124e3077d8e61165d30fac23e4	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+1b08e634cec80b124e3077d8e61165d30fac23e4	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+1b08e634cec80b124e3077d8e61165d30fac23e4	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+1b08e634cec80b124e3077d8e61165d30fac23e4	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider
+ac8521c5f94249a33ad7ba870467904b08904101	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_MediaProvider

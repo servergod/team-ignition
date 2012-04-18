@@ -1,0 +1,12 @@
+3a8111e7fe46fb5450e90c40af5a844d83990fe4		branch 'froyo' of git://github.com/CyanogenMod/android_external_openssl
+3a8111e7fe46fb5450e90c40af5a844d83990fe4		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_openssl
+770f221f89a3b69d1c6e4cd403eb3a7e6c2f7b18		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_openssl
+770f221f89a3b69d1c6e4cd403eb3a7e6c2f7b18		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_openssl
+770f221f89a3b69d1c6e4cd403eb3a7e6c2f7b18		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e		branch 'ics' of git://github.com/CyanogenMod/android_external_openssl
+0f976b8e330c20f8a07c301b1a2b31198ea71c28		branch 'master' of git://github.com/CyanogenMod/android_external_openssl
+a399feb4449474088206f74976146b5c6eadfdf9	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_openssl
+a399feb4449474088206f74976146b5c6eadfdf9	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_openssl
+a399feb4449474088206f74976146b5c6eadfdf9	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_openssl
+a399feb4449474088206f74976146b5c6eadfdf9	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_openssl
+770f221f89a3b69d1c6e4cd403eb3a7e6c2f7b18	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_openssl

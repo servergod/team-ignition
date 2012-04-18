@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_bionic
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_bionic
+	fetch = +refs/heads/*:refs/remotes/github/*

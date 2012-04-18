@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_packages_providers_DownloadProvider
+	fetch = +refs/heads/*:refs/remotes/github/*

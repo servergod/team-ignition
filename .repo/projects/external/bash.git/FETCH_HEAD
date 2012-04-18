@@ -1,0 +1,11 @@
+c12d330ddc951c5e6761c0535a4c5dd079d0a777		branch 'bash-4.1-eclair' of git://github.com/CyanogenMod/android_external_bash
+7bd059bed4786e907beea8049e8eec24e86b4d86		branch 'bash-4.1-froyo' of git://github.com/CyanogenMod/android_external_bash
+3fc9de137941ea01501dc11cfec22c16963b5876		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_bash
+3fc9de137941ea01501dc11cfec22c16963b5876		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_bash
+3fc9de137941ea01501dc11cfec22c16963b5876		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_bash
+791237e44695d2ee123c8a6f665ef074f5fadfbb		branch 'ics' of git://github.com/CyanogenMod/android_external_bash
+744878f09637fad57e28c5eb5e277cdb50b26485	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_bash
+744878f09637fad57e28c5eb5e277cdb50b26485	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_bash
+744878f09637fad57e28c5eb5e277cdb50b26485	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_bash
+744878f09637fad57e28c5eb5e277cdb50b26485	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_bash
+3fc9de137941ea01501dc11cfec22c16963b5876	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_bash

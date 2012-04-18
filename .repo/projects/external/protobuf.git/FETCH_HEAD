@@ -1,0 +1,5 @@
+3574de1ca8301e1e13d1c89f2e2a902499d6bae9		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_protobuf
+3574de1ca8301e1e13d1c89f2e2a902499d6bae9		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_protobuf
+3574de1ca8301e1e13d1c89f2e2a902499d6bae9		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_protobuf
+e217977611c52bccde7f7c78e1d3c790c6357431		branch 'ics' of git://github.com/CyanogenMod/android_external_protobuf
+3574de1ca8301e1e13d1c89f2e2a902499d6bae9	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_protobuf

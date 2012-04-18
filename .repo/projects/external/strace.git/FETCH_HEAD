@@ -1,0 +1,11 @@
+efb3d04365c3e004d836ce66adff07b98b21b629		branch 'froyo' of git://github.com/CyanogenMod/android_external_strace
+efb3d04365c3e004d836ce66adff07b98b21b629		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_strace
+c9fd2e5ef7d002e12e7cf2512506c84a9414b0fd		branch 'ics' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_strace
+98692753a1cd03752d4e9e0a69b1d997f65e21db	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_strace

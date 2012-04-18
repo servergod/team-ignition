@@ -1,0 +1,11 @@
+c64a4ad3791b67f7576d0a801198d11783f178af		branch 'froyo' of git://github.com/CyanogenMod/android_system_vold
+c64a4ad3791b67f7576d0a801198d11783f178af		branch 'froyo-stable' of git://github.com/CyanogenMod/android_system_vold
+86a8855d818cb087f2d77cdd37365b4acec3c266		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_system_vold
+86a8855d818cb087f2d77cdd37365b4acec3c266		branch 'gingerbread' of git://github.com/CyanogenMod/android_system_vold
+5c2d303edb9177e65e320d13bc21dcdcfcf55dca		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_system_vold
+55f61b6b5776b186899e8d0ebb51b8afdb28cb82		branch 'ics' of git://github.com/CyanogenMod/android_system_vold
+3f7120aaebde30375c7115aac0c0f34665697135	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_system_vold
+ca12a705e1d57f98e9aa232788c704895abac4ab	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_system_vold
+ca12a705e1d57f98e9aa232788c704895abac4ab	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_system_vold
+ca12a705e1d57f98e9aa232788c704895abac4ab	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_system_vold
+5c2d303edb9177e65e320d13bc21dcdcfcf55dca	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_system_vold

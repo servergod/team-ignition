@@ -1,0 +1,9 @@
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_rsync
+ad556e8252b7b261f114799257c7fcaef34992c8		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd		branch 'ics' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd		branch 'master' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_rsync
+0c1c581e7a91fe7da2a93f8845fc0241dba0a4bd	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_rsync

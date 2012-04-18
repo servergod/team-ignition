@@ -1,0 +1,10 @@
+75dbbec147d09a9b42062a0190193ec6f67e7f8c		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_libcore
+75dbbec147d09a9b42062a0190193ec6f67e7f8c		branch 'gingerbread' of git://github.com/CyanogenMod/android_libcore
+75dbbec147d09a9b42062a0190193ec6f67e7f8c		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_libcore
+fc294a48d80d9e2b2ac126edf93ad316f5f6cf72		branch 'ics' of git://github.com/CyanogenMod/android_libcore
+bab348bd44303c97203ea65e169045754cede3dc		branch 'master' of git://github.com/CyanogenMod/android_libcore
+aa2be6b82cdf3bb292076d2a614a5f5b40e63123	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_libcore
+aa2be6b82cdf3bb292076d2a614a5f5b40e63123	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_libcore
+aa2be6b82cdf3bb292076d2a614a5f5b40e63123	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_libcore
+aa2be6b82cdf3bb292076d2a614a5f5b40e63123	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_libcore
+75dbbec147d09a9b42062a0190193ec6f67e7f8c	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_libcore

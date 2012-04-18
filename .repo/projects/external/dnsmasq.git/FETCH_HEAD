@@ -1,0 +1,6 @@
+6257052f1d76bbe587c68eda1cc3b2772d21eabe		branch 'eclair' of git://github.com/CyanogenMod/android_external_dnsmasq
+c4cf52fd9b3eb72d951a42b236a8ad5a72626b99		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_dnsmasq
+c4cf52fd9b3eb72d951a42b236a8ad5a72626b99		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_dnsmasq
+c4cf52fd9b3eb72d951a42b236a8ad5a72626b99		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'ics' of git://github.com/CyanogenMod/android_external_dnsmasq
+c4cf52fd9b3eb72d951a42b236a8ad5a72626b99	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_dnsmasq

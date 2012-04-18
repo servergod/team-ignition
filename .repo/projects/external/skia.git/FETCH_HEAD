@@ -1,0 +1,14 @@
+d76be2dc139764e92294234b822ef3cbb7253cc8		branch 'donut' of git://github.com/CyanogenMod/android_external_skia
+046c41b82bee8789924cc5ca4dfaf29ecf03acf5		branch 'eclair' of git://github.com/CyanogenMod/android_external_skia
+b756e78bab66e78f07c05a7223a4a1288a047a30		branch 'froyo' of git://github.com/CyanogenMod/android_external_skia
+b756e78bab66e78f07c05a7223a4a1288a047a30		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_skia
+f028ca1572c173b07fbda3b3f83828d110cfc359		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_skia
+f028ca1572c173b07fbda3b3f83828d110cfc359		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_skia
+4a067ac6ade401653fa5e1f9db6c54f2dc47e08b		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_skia
+dddbdf6f5bfab5bbb1d3a0ae95e5b9fde3d4dc63		branch 'ics' of git://github.com/CyanogenMod/android_external_skia
+a004eebd7c27c73506096c4466e1898e69c8f8cb		branch 'master' of git://github.com/CyanogenMod/android_external_skia
+bf476ae45e61a6882dff55f67fbec6051b4c9ef6	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_skia
+bf476ae45e61a6882dff55f67fbec6051b4c9ef6	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_skia
+bf476ae45e61a6882dff55f67fbec6051b4c9ef6	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_skia
+bf476ae45e61a6882dff55f67fbec6051b4c9ef6	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_skia
+4a067ac6ade401653fa5e1f9db6c54f2dc47e08b	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_skia

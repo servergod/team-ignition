@@ -1,0 +1,5 @@
+1758ce18b0ee3675e311ed971cb29af2944f106f		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_UserDictionaryProvider
+1758ce18b0ee3675e311ed971cb29af2944f106f		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_UserDictionaryProvider
+d7eb9d4b59640175877a6f53f32b6e3e3d7154e9		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_UserDictionaryProvider
+d7eb9d4b59640175877a6f53f32b6e3e3d7154e9		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_UserDictionaryProvider
+d7eb9d4b59640175877a6f53f32b6e3e3d7154e9	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_UserDictionaryProvider

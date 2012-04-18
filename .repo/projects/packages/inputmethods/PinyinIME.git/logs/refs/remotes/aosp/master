@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 10419f95b930a96814d8fb69987d0baed36e2909 Indirect <Indirect@localhost.(none)> 1334707568 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/packages/inputmethods/PinyinIME.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+10419f95b930a96814d8fb69987d0baed36e2909 e5520ea84671e907799217315ee3b47130d6e2ce Indirect <Indirect@localhost.(none)> 1334707569 -0700	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

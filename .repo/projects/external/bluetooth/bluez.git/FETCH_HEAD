@@ -1,0 +1,12 @@
+5bb2d817e52056399b16f4e2a271d006be820c4c		branch 'eclair' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+81b2a507c229a17f9505cc430b6111e248f69ebc		branch 'froyo' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+81b2a507c229a17f9505cc430b6111e248f69ebc		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+4d02fae65790ed493fc66baa3441f8700e1f7fae		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+4d02fae65790ed493fc66baa3441f8700e1f7fae		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+8956cdb21d9f4ade31daa856bb4a509c7a466542		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+91ab44cc6311b08087b4000e0d109412e7cbff46		branch 'ics' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+74fda8ee9322820f0cc17a2818e673b26304b420	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+c52d003668da041df30041f8f64ddda577b5b012	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+c52d003668da041df30041f8f64ddda577b5b012	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+c52d003668da041df30041f8f64ddda577b5b012	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_bluetooth_bluez
+cbd085e18bf7dfa57f7c37de2e3d23fe34e0a80d	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_bluetooth_bluez

@@ -1,0 +1,5 @@
+388ac03734d41670169c55e53f039f34cee51c49		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_QuickSearchBox
+388ac03734d41670169c55e53f039f34cee51c49		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_QuickSearchBox
+9b11095b74e67316d8fc89ced6ab6a05493279ec		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_QuickSearchBox
+1636e41b8ad1d6b05d65a9ba104bd1cfe5a4a362		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_QuickSearchBox
+9b11095b74e67316d8fc89ced6ab6a05493279ec	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_QuickSearchBox

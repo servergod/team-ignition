@@ -1,0 +1,12 @@
+9a2c94b041f03d39cb88c1a8d4c43d7276e7f11e		branch 'eclair' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+75cfb5d5cfbee6ee9538f902fede047c9f45687d		branch 'froyo' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+75cfb5d5cfbee6ee9538f902fede047c9f45687d		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+bbd7879f85591863ef49a9c13d7e4f55d41f61a3		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+bbd7879f85591863ef49a9c13d7e4f55d41f61a3		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+77349cdf78fc1e7f47e780d3dfd65077b321b73d		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+861e4fa398710cdc9dcfdfde934d8e08bf83f38e		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+773537c4aff0bddfbf0afd2f55a5a94492df03bd	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+773537c4aff0bddfbf0afd2f55a5a94492df03bd	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+773537c4aff0bddfbf0afd2f55a5a94492df03bd	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+773537c4aff0bddfbf0afd2f55a5a94492df03bd	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider
+77349cdf78fc1e7f47e780d3dfd65077b321b73d	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_DownloadProvider

@@ -1,0 +1,13 @@
+d14f1f732399ccca9f5003e481d43d4937ad641a		branch 'donut' of git://github.com/CyanogenMod/android_packages_apps_Mms
+c3756af8032ebf8141595ea53351a1b0451c41fe		branch 'eclair' of git://github.com/CyanogenMod/android_packages_apps_Mms
+a8c7de6b7b537bbc81a31d8077d4febf4c342a2c		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Mms
+7550324cfec8ed5068c573d3369aa9690f96bcc7		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Mms
+3318d7e8b285d8e6c746f0965fc0e6e1fb63df11		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Mms
+d3d1e33be767d13c70e7d9fd567fd8a70c145c5c		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Mms
+41adcaa4e92de6ff34d4b25482f3d18eabc7acc1		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Mms
+0e4090bb89c03521a4ab51ae7f944b7b78fd899b		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Mms
+20f345c1857d25af519114d1f5dbffce24f9b3db	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Mms
+230c1f150bd52cf9d1f63d66bae6347dd4a23fb9	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Mms
+230c1f150bd52cf9d1f63d66bae6347dd4a23fb9	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Mms
+230c1f150bd52cf9d1f63d66bae6347dd4a23fb9	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Mms
+41adcaa4e92de6ff34d4b25482f3d18eabc7acc1	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Mms

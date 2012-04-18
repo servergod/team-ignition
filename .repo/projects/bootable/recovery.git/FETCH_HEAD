@@ -1,0 +1,16 @@
+d105f8f84f25db7861775e07a808855334207d95		branch 'cupcake' of git://github.com/CyanogenMod/android_bootable_recovery
+adf906d034480fdffbfca51f56176d0e0d603437		branch 'eclair' of git://github.com/CyanogenMod/android_bootable_recovery
+3d6a2111e40a30424117b6e7d4623d71ee0df96a		branch 'froyo' of git://github.com/CyanogenMod/android_bootable_recovery
+8df69c0660927cd1c10a11b40f0c28641405adc2		branch 'froyo-stable' of git://github.com/CyanogenMod/android_bootable_recovery
+434434a7542f7c605e057665359749feb593cab7		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_bootable_recovery
+434434a7542f7c605e057665359749feb593cab7		branch 'gingerbread' of git://github.com/CyanogenMod/android_bootable_recovery
+2e85422f89830054b31bb0194c39d037f033993a		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_bootable_recovery
+08bedb21d87dede99f1e89a4869609389bb7cee7		branch 'ics' of git://github.com/CyanogenMod/android_bootable_recovery
+a7c4c19d82f507241fa27d690cc0e157f9940461		branch 'nandroid_tar' of git://github.com/CyanogenMod/android_bootable_recovery
+789d4d969027c745837f437298ab42957b5576ac		branch 'streak' of git://github.com/CyanogenMod/android_bootable_recovery
+c56768cfb173cededb914e8c33399110cd2a2d3f	not-for-merge	tag '3.x' of git://github.com/CyanogenMod/android_bootable_recovery
+bab66b40f734194de26fbf37cace4da8f98c4a87	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_bootable_recovery
+7364e82a5fc092ec246c4f1a2b70a2d58544f378	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_bootable_recovery
+9c4c8e2c6675861e9983a1e40adb7f082de691fb	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_bootable_recovery
+9c4c8e2c6675861e9983a1e40adb7f082de691fb	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_bootable_recovery
+2e85422f89830054b31bb0194c39d037f033993a	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_bootable_recovery

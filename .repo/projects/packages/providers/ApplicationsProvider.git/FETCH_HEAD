@@ -1,0 +1,5 @@
+ee0f200cb9ea999f7f7264b1c03bad01d455fb23		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_ApplicationsProvider
+ee0f200cb9ea999f7f7264b1c03bad01d455fb23		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_ApplicationsProvider
+284d98dded9a12a06552cc987203878f313647e4		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_ApplicationsProvider
+0f6a411c0633d07771268c939ecc8c24fd8d4b16		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_ApplicationsProvider
+284d98dded9a12a06552cc987203878f313647e4	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_ApplicationsProvider

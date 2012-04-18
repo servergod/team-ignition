@@ -1,0 +1,12 @@
+# pack-refs with: peeled 
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/remotes/github/gb-release-7.2
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/remotes/github/gingerbread
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/remotes/github/gingerbread-release
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/remotes/github/ics
+6018c68c8259a82ed665045fbbfe377bb78f8765 refs/remotes/github/libncurses-5.7-eclair
+6018c68c8259a82ed665045fbbfe377bb78f8765 refs/remotes/github/libncurses-5.7-froyo
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/tags/cm-7.0.0
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/tags/cm-7.0.1
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/tags/cm-7.0.2.1
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/tags/cm-7.0.3
+13c1a56b19c844f24bb6508123f63e5f02479037 refs/tags/cm-7.1.0

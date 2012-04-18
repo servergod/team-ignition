@@ -1,0 +1,5 @@
+8abdcd4098f266e438e7129a3dfe311005686431		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9		branch 'ics' of git://github.com/CyanogenMod/android_external_kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_kernel-headers

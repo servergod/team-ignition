@@ -1,0 +1,22 @@
+0bc20ba9b271cd841d83f93278548c816e388f15		branch 'cm-7.0.0' of git://github.com/CyanogenMod/android
+019260f647f5119eac7a1674d467dd79d00042f0		branch 'cm-7.0.1' of git://github.com/CyanogenMod/android
+087a9d82f5e2d778cb591a67ded5d29472ea7d7d		branch 'cm-7.0.2.1' of git://github.com/CyanogenMod/android
+0b9fb2d557eb2a5ad528966cc00f15fd48281ec7		branch 'cm-7.0.3' of git://github.com/CyanogenMod/android
+434ac9b482c7786d485a28d532d7ca6002893086		branch 'eclair' of git://github.com/CyanogenMod/android
+e9dfb15dde66fc115d7f29574a573eb65f714c52		branch 'froyo' of git://github.com/CyanogenMod/android
+15bf66453e118ba8ee1c89d243463d388da824bd		branch 'froyo-stable' of git://github.com/CyanogenMod/android
+9d9b93d5854f7ec3fd48153f811987b1164ef6dc		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android
+19a1c6c676cf45d8b93e0cc3ad53c4e2834be102		branch 'gingerbread' of git://github.com/CyanogenMod/android
+91e199938cd2b0530314e31963bf6be7ef788f56		branch 'gingerbread-release' of git://github.com/CyanogenMod/android
+c84670d1c4662dffd8bf80f7589017e0f05d244e		branch 'ics' of git://github.com/CyanogenMod/android
+7144eb8ddc7dbaf982ec025e51c11bf8980ec2ed		branch 'themes-exp' of git://github.com/CyanogenMod/android
+4964986b6d1278b74ecbdfef14912c38413a613e	not-for-merge	tag 'cm-5.0.6' of git://github.com/CyanogenMod/android
+dcd2224bdcbe593a32623cfb1f3518e241a01395	not-for-merge	tag 'cm-5.0.7' of git://github.com/CyanogenMod/android
+a2b102f6ed1311f3b8b88b39c2caee638a681b60	not-for-merge	tag 'cm-5.0.7-ds' of git://github.com/CyanogenMod/android
+32973dac932e95ab305cc362ecd1842d9202174f	not-for-merge	tag 'cm-6.0.0' of git://github.com/CyanogenMod/android
+8524c9eb0156c91b5df823ac18222f87701052f5	not-for-merge	tag 'cm-6.0.0-rc1' of git://github.com/CyanogenMod/android
+0bc20ba9b271cd841d83f93278548c816e388f15	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android
+019260f647f5119eac7a1674d467dd79d00042f0	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android
+087a9d82f5e2d778cb591a67ded5d29472ea7d7d	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android
+0b9fb2d557eb2a5ad528966cc00f15fd48281ec7	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android
+8889d9510969e312d593aad654ec9c67357d4d0e	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android

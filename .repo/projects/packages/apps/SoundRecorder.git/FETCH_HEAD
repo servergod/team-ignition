@@ -1,0 +1,11 @@
+724f488c5fc5e187fc90ad670251be11c99b0014		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+724f488c5fc5e187fc90ad670251be11c99b0014		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+e4ccc5f212bc8cf1d3f068664e6c8dd17adeb3a1		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+e4ccc5f212bc8cf1d3f068664e6c8dd17adeb3a1		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+e4ccc5f212bc8cf1d3f068664e6c8dd17adeb3a1		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+56aded53dd75631bc7a3f0c5ccb33368fe49dc22		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+09fe528c62ad07de020f89eacb36310527c3cb23	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+09fe528c62ad07de020f89eacb36310527c3cb23	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+09fe528c62ad07de020f89eacb36310527c3cb23	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+09fe528c62ad07de020f89eacb36310527c3cb23	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder
+e4ccc5f212bc8cf1d3f068664e6c8dd17adeb3a1	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_SoundRecorder

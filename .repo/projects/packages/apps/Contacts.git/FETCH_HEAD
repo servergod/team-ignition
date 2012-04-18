@@ -1,0 +1,13 @@
+64bf03e7f7140c270fb2123a888f34948d3df9ac		branch 'donut' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+053e88eaac39e41a96f48a08cda559388df844a5		branch 'eclair' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+15f4cd693405dcf1338dc5beb18350ffa64ee0ec		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+15f4cd693405dcf1338dc5beb18350ffa64ee0ec		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+1c217d2327ea8d31bbf690852fc79018425922bf		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+79bf1940337c3f3565f96e89e6bb4b16a683b443		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+2cc6690175fcce77be9e7540b260c3f80682a3ef		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+c9104d5101a8eea768d32941dcabd91cf61736bf		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+c8dd76e15c6942bb956bb15b91d41a58cd2b964e	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+c8dd76e15c6942bb956bb15b91d41a58cd2b964e	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+c8dd76e15c6942bb956bb15b91d41a58cd2b964e	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+c8dd76e15c6942bb956bb15b91d41a58cd2b964e	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Contacts
+2cc6690175fcce77be9e7540b260c3f80682a3ef	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Contacts

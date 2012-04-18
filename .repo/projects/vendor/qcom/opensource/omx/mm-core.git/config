@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_vendor_qcom_opensource_omx_mm-core
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_vendor_qcom_opensource_omx_mm-core
+	fetch = +refs/heads/*:refs/remotes/github/*

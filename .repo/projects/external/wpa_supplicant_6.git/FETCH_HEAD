@@ -1,0 +1,11 @@
+ffe728e1926e7c501944b07333e5ae2f106a94fd		branch 'froyo' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+ffe728e1926e7c501944b07333e5ae2f106a94fd		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+915e2d6bd2e02258c345c0c5bf1a289dc229954d		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+aa84d81a15fbc2fded6d3feadc49c37ff1de325b		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+33bb7ebe53d80765c93a2c1a9c51661d9afc0bfc		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+8a2f800af544a834b970437eed42447f4687087c		branch 'ics' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+97f3725f8db938bf40dd2fbcc70d0105aee97029	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+97f3725f8db938bf40dd2fbcc70d0105aee97029	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+97f3725f8db938bf40dd2fbcc70d0105aee97029	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+97f3725f8db938bf40dd2fbcc70d0105aee97029	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6
+33bb7ebe53d80765c93a2c1a9c51661d9afc0bfc	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_wpa_supplicant_6

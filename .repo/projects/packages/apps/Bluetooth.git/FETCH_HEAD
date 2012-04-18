@@ -1,0 +1,11 @@
+9f42c8c3f39f61f10fe435c876c84b694ee7335d		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+9f42c8c3f39f61f10fe435c876c84b694ee7335d		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+7d950c463a4528398a1d80e374dfe9fbd966aac6		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+4a0840b0e68e1d6876d30affbed6005aa44ba9b9		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+b6cf743fe3994eda247c42d933c4256d044e6923		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+340dfba8efb00380baa4464e010e6e1c1522fd95		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+30e2e5e2e65186cc12967dad39dd344c729cb976	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+30e2e5e2e65186cc12967dad39dd344c729cb976	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+30e2e5e2e65186cc12967dad39dd344c729cb976	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+30e2e5e2e65186cc12967dad39dd344c729cb976	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth
+b6cf743fe3994eda247c42d933c4256d044e6923	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Bluetooth

@@ -1,0 +1,5 @@
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_dbus
+537eaff5de9aace3348436166d4cde7adc1e488e		branch 'ics' of git://github.com/CyanogenMod/android_external_dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_dbus

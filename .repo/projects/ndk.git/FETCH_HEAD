@@ -1,0 +1,5 @@
+53c872521907f6a4716c322ac79769de56de4d95		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_ndk
+53c872521907f6a4716c322ac79769de56de4d95		branch 'gingerbread' of git://github.com/CyanogenMod/android_ndk
+7a619be40e8594a961066a33b7cc9ef52f566988		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_ndk
+2d77f5a05f60029c981f299b222cfe28db18ccf7		branch 'ics' of git://github.com/CyanogenMod/android_ndk
+7a619be40e8594a961066a33b7cc9ef52f566988	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_ndk

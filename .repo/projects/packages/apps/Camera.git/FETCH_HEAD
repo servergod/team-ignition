@@ -1,0 +1,12 @@
+29cb001a4b952b6a0a92c99740f43b1763941450		branch 'eclair' of git://github.com/CyanogenMod/android_packages_apps_Camera
+a7ecdbed66bee90b7fa241e46924d4fa17a5aeab		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Camera
+a7ecdbed66bee90b7fa241e46924d4fa17a5aeab		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Camera
+19efaf2f12fb3e24109ffacc212c824e3053508b		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Camera
+c6a78697908f04ed8a6f37b14e3664d490e5a839		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Camera
+cdb2922b0853928f29b5657d5983e2fe3b44e272		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Camera
+e0669b5c0ae47f67da3bdde35558880a884e4a39		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Camera
+ce240e26fc3e3304fec2258e8a1bbb9fda9b2e05	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Camera
+ce240e26fc3e3304fec2258e8a1bbb9fda9b2e05	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Camera
+ce240e26fc3e3304fec2258e8a1bbb9fda9b2e05	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Camera
+ce240e26fc3e3304fec2258e8a1bbb9fda9b2e05	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Camera
+cdb2922b0853928f29b5657d5983e2fe3b44e272	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Camera

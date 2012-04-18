@@ -1,0 +1,14 @@
+206d1d4647d55139cdef2b5a0c80b77524278bf8		branch 'donut' of git://github.com/CyanogenMod/android_packages_apps_Browser
+9859ee7f45cfd09d84bdafd34bb5372aaf719a4f		branch 'eclair' of git://github.com/CyanogenMod/android_packages_apps_Browser
+8869b75522266affddb560e712ebeb1a67b215a1		branch 'eclair-backport' of git://github.com/CyanogenMod/android_packages_apps_Browser
+dff9323679c4aecf2cd94a8a503725ebd6ad3a91		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Browser
+dff9323679c4aecf2cd94a8a503725ebd6ad3a91		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Browser
+bdfbd9268bb50540c712fd4119685c8042d0cbb9		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Browser
+bdfbd9268bb50540c712fd4119685c8042d0cbb9		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Browser
+c35a2901dd3c85543c6fb5beae8798c0bfcd3270		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Browser
+06962f7516e75bbcd832858d4d112a1e26c33df0		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Browser
+1abba637f47ce61176d2fea84e788a8fa4dee6c7	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Browser
+1abba637f47ce61176d2fea84e788a8fa4dee6c7	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Browser
+1abba637f47ce61176d2fea84e788a8fa4dee6c7	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Browser
+1abba637f47ce61176d2fea84e788a8fa4dee6c7	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Browser
+c35a2901dd3c85543c6fb5beae8798c0bfcd3270	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Browser

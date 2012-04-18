@@ -1,0 +1,10 @@
+79d20f03a36775f5e96d78a759cb05d6b8c4a314		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+79d20f03a36775f5e96d78a759cb05d6b8c4a314		branch 'gingerbread' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+31a0928f5459738151581a3618d87691874b1388		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+6f83c398a62d24bea304c51f639cfd49fdabcd76		branch 'ics' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+a12f4aa0c17407e308bd192536a6a5dff47b9b2d		branch 'omap4-merge' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+c0da2876da6a9f07ab7268128af3c912130321ab	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+c0da2876da6a9f07ab7268128af3c912130321ab	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+c0da2876da6a9f07ab7268128af3c912130321ab	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+c0da2876da6a9f07ab7268128af3c912130321ab	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_hardware_ti_omap3
+31a0928f5459738151581a3618d87691874b1388	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_hardware_ti_omap3

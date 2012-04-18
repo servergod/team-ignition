@@ -1,0 +1,5 @@
+fc2dc55c510657073ef4235658167a878e82cefa		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_netcat
+fc2dc55c510657073ef4235658167a878e82cefa		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_netcat
+fc2dc55c510657073ef4235658167a878e82cefa		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_netcat
+3b92542cff3f53ab608c25e1f65c538e42dece1b		branch 'ics' of git://github.com/CyanogenMod/android_external_netcat
+fc2dc55c510657073ef4235658167a878e82cefa	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_netcat

@@ -1,0 +1,5 @@
+6bb909651a360412fe33fd707686971106501d04		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Nfc
+6bb909651a360412fe33fd707686971106501d04		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Nfc
+629c844dc60e356b3229a10ac41b0aa4a31da535		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Nfc
+26eec6d3f20d3aef878b341d611ee42936c759f3		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Nfc
+629c844dc60e356b3229a10ac41b0aa4a31da535	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Nfc

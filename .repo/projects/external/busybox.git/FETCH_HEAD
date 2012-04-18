@@ -1,0 +1,15 @@
+d0194cfc47a71a65e049a8b0eab6b6ca3ab50e36		branch 'eclair' of git://github.com/CyanogenMod/android_external_busybox
+e5493a5af57c1ffb0d933faab0700db1c0e5b82f		branch 'froyo' of git://github.com/CyanogenMod/android_external_busybox
+e5493a5af57c1ffb0d933faab0700db1c0e5b82f		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_busybox
+bde93867df20d849b248847ad16c213d7bf27551		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_busybox
+bde93867df20d849b248847ad16c213d7bf27551		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_busybox
+80b5cc421a7233d91dc4567ea5d6c0a108c0c6cc		branch 'gingerbread-legacy' of git://github.com/CyanogenMod/android_external_busybox
+8a48f9f04f5d0129ca7e7b44f9cd9ce1350e9444		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_busybox
+2d546e621ec4d0f8174d8de4e4d1f1700fe39b10		branch 'ics' of git://github.com/CyanogenMod/android_external_busybox
+ede109826c1503b89336bed02325b637b0c955ab		branch 'koush' of git://github.com/CyanogenMod/android_external_busybox
+1c5265f5c097c5362cf71879e82b3d74234ac963		branch 'master' of git://github.com/CyanogenMod/android_external_busybox
+411c727c1b9072b0a79e91d68fa142170bfd0e7a	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_busybox
+411c727c1b9072b0a79e91d68fa142170bfd0e7a	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_busybox
+411c727c1b9072b0a79e91d68fa142170bfd0e7a	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_busybox
+411c727c1b9072b0a79e91d68fa142170bfd0e7a	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_busybox
+8a48f9f04f5d0129ca7e7b44f9cd9ce1350e9444	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_busybox

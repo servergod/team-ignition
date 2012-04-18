@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 d468cbeb023507ce9c0e01e688038b9c56c403e7 Indirect <Indirect@localhost.(none)> 1334706964 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/device/common.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

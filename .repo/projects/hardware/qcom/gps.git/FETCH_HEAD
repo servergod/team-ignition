@@ -1,0 +1,9 @@
+338f7506aeffb20816d3c4e1c4b3cc60b6d52d17		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+c05e3280a17d1c1283a6f460118b2bf53c134033		branch 'gingerbread' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+bdefe50bcdf4c0359b5f3fa5a931f82b869b9d2e		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+9f8ad0824da8c1e4a2095af88e8242313e13caaa		branch 'ics' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+a91c47a3f7f46e4511469a6ecb8229c6dbcf78f5	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+5887fb6380b685c7fa0a72e1fcb1a860e7b57e71	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+b1b77efb5c5e20b13a076489e7bb3f9258402b8e	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+b1b77efb5c5e20b13a076489e7bb3f9258402b8e	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_hardware_qcom_gps
+bdefe50bcdf4c0359b5f3fa5a931f82b869b9d2e	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_hardware_qcom_gps

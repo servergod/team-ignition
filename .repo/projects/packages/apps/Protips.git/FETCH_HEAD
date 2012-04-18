@@ -1,0 +1,11 @@
+03c5288e0336a85e140d1049ef57480996006bdd		branch 'froyo' of git://github.com/CyanogenMod/android_packages_apps_Protips
+03c5288e0336a85e140d1049ef57480996006bdd		branch 'froyo-stable' of git://github.com/CyanogenMod/android_packages_apps_Protips
+2b63160bb149f5ed5e9cf38bf72e9a220bb3cfe7		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Protips
+2b63160bb149f5ed5e9cf38bf72e9a220bb3cfe7		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Protips
+02eec688b168153d6d1924860122f3c3078e45a2		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Protips
+b3bb7cb7639ef09fbe7874a93798f38893a58856	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Protips
+b3bb7cb7639ef09fbe7874a93798f38893a58856	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Protips
+b3bb7cb7639ef09fbe7874a93798f38893a58856	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Protips
+b3bb7cb7639ef09fbe7874a93798f38893a58856	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Protips
+02eec688b168153d6d1924860122f3c3078e45a2	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Protips

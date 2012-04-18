@@ -1,0 +1,12 @@
+# pack-refs with: peeled 
+bf591d8700b903ce5fb9de54523ca6f193479fa8 refs/remotes/github/froyo
+bf591d8700b903ce5fb9de54523ca6f193479fa8 refs/remotes/github/froyo-stable
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/remotes/github/gb-release-7.2
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/remotes/github/gingerbread
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/remotes/github/gingerbread-release
+ac8a3b61195f13ff9d1c5436a30ba11f84e9bd81 refs/remotes/github/ics
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/tags/cm-7.0.0
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/tags/cm-7.0.1
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/tags/cm-7.0.2.1
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/tags/cm-7.0.3
+a5f51f08b01f2fe8b2307299cddc2c54dc6c89f1 refs/tags/cm-7.1.0

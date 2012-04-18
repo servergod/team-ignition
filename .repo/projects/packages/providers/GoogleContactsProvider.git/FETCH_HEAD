@@ -1,0 +1,5 @@
+4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_GoogleContactsProvider
+4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_GoogleContactsProvider
+4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_GoogleContactsProvider
+4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_GoogleContactsProvider
+4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_GoogleContactsProvider

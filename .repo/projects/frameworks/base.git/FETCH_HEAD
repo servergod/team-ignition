@@ -1,0 +1,15 @@
+cc4513102ca9181798c236b6e8287df0ba68e86c		branch 'donut' of git://github.com/CyanogenMod/android_frameworks_base
+3a5bfe958ded4041f69831c9f6e48c2973372c0e		branch 'eclair' of git://github.com/CyanogenMod/android_frameworks_base
+1218f1fefdd5fee8b066df4bb3d165d64218ab3a		branch 'froyo' of git://github.com/CyanogenMod/android_frameworks_base
+5012d375cfffaacd3d40a6f43793d1f571599f81		branch 'froyo-stable' of git://github.com/CyanogenMod/android_frameworks_base
+0521546b7df7186d21b0a43571171ae3c30b634f		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_frameworks_base
+ba3aebabcb5660b14cfc0cb1eb0608d8a3c5bf04		branch 'gingerbread' of git://github.com/CyanogenMod/android_frameworks_base
+5786e6761ed88ce7e1c6d4c022eee7cf2c99102b		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_frameworks_base
+a4dff0e96b3d6fcc1efc4be6688977aa2bf45cce		branch 'ics' of git://github.com/CyanogenMod/android_frameworks_base
+c9ce58def5f4f3aa6ef1b60cfd4e2e7356ad5c3e		branch 'missing-master-patches' of git://github.com/CyanogenMod/android_frameworks_base
+d40f512c248b3e276f33e8d3dd21583f000857c1		branch 'themes-exp' of git://github.com/CyanogenMod/android_frameworks_base
+338dd9dd361fc41bcfba509124903fab0ada9579	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_frameworks_base
+297468b0a9aec9caa54f7773679a0d588d799488	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_frameworks_base
+5d4bc4e080cb7869cc8de70961187a20437ce2e0	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_frameworks_base
+558592563aac45209648d6efb9bd159d43521f79	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_frameworks_base
+89c3467ad2b579b7ea2c720d5d12b723d2e7b8d0	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_frameworks_base

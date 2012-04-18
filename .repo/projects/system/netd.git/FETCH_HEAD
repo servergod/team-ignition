@@ -1,0 +1,11 @@
+d4fb5820ca19952690b88700f0e088db42d35242		branch 'froyo' of git://github.com/CyanogenMod/android_system_netd
+d4fb5820ca19952690b88700f0e088db42d35242		branch 'froyo-stable' of git://github.com/CyanogenMod/android_system_netd
+b71dc5bd78e63179d16c241a22e17124e4f34e56		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_system_netd
+b71dc5bd78e63179d16c241a22e17124e4f34e56		branch 'gingerbread' of git://github.com/CyanogenMod/android_system_netd
+8db724971627f31d79a4c8461bf87e3512ce9484		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_system_netd
+664b9c2e1d5aca978dcfec8f05309288d63cc844		branch 'ics' of git://github.com/CyanogenMod/android_system_netd
+4768c2f1af1ede64d69e477788711c23e1b54e53	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_system_netd
+32ab933950ccd369d1d690d7d5b6a365b140791f	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_system_netd
+32ab933950ccd369d1d690d7d5b6a365b140791f	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_system_netd
+32ab933950ccd369d1d690d7d5b6a365b140791f	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_system_netd
+8db724971627f31d79a4c8461bf87e3512ce9484	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_system_netd

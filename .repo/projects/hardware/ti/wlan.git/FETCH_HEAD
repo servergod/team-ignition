@@ -1,0 +1,9 @@
+b709ec2a83975a937c4c7896a98424f769953a83		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+b709ec2a83975a937c4c7896a98424f769953a83		branch 'gingerbread' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+a3b02bbcb3aeca0630c27ef44bf43a30127d3953		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+2ad24b151255dbead543941a07aa7a0f5208198e		branch 'ics' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+395f7053e1c0518dc4d8c232d0df6b7ef10ecc91	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+395f7053e1c0518dc4d8c232d0df6b7ef10ecc91	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+395f7053e1c0518dc4d8c232d0df6b7ef10ecc91	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+395f7053e1c0518dc4d8c232d0df6b7ef10ecc91	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_hardware_ti_wlan
+a3b02bbcb3aeca0630c27ef44bf43a30127d3953	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_hardware_ti_wlan

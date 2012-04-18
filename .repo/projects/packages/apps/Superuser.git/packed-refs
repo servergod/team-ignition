@@ -1,0 +1,13 @@
+# pack-refs with: peeled 
+8028c084ee6309cdaa341fbb529eed0c14e7695d refs/remotes/github/cupcake-donut
+c07e80a056cf0ad0cff3b92fe82a2663ac67c9bc refs/remotes/github/eclair-froyo
+762680895cfc536cab49b7a263a0be0abc1b33db refs/remotes/github/gb-release-7.2
+cbe23197027885da37227085c8189218337b37a1 refs/remotes/github/gingerbread
+1051b8711d67567c920cc75364cfb7bd7aa253a9 refs/remotes/github/gingerbread-release
+46a3bfb91eb8cd1e7ee287e63920d15a25e80b52 refs/remotes/github/ics
+c93c35176710985c31d028759763af8e848d1e22 refs/remotes/github/master
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd refs/tags/cm-7.0.0
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd refs/tags/cm-7.0.1
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd refs/tags/cm-7.0.2.1
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd refs/tags/cm-7.0.3
+279bc96542ace24a628d04022d07f1e8328e1db1 refs/tags/cm-7.1.0

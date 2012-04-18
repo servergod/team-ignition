@@ -1,0 +1,9 @@
+1a20637da1103329a607d311e66071e596931b91		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+1a20637da1103329a607d311e66071e596931b91		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+1a20637da1103329a607d311e66071e596931b91		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+40cc7f1dbc80f3e33532fff44948ce482243d1ac		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+1a20637da1103329a607d311e66071e596931b91	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+1a20637da1103329a607d311e66071e596931b91	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+1a20637da1103329a607d311e66071e596931b91	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider
+1a20637da1103329a607d311e66071e596931b91	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_ContactsProvider

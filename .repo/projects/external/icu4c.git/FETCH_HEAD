@@ -1,0 +1,5 @@
+00c607c354483206f400faa4a69a02dd1755fc9c		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_icu4c
+00c607c354483206f400faa4a69a02dd1755fc9c		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_icu4c
+fa7b84a26dd6c44cb0d219ef7b2f7e258219b616		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_icu4c
+22a8cb963896cf105399221012b60e32d515038d		branch 'ics' of git://github.com/CyanogenMod/android_external_icu4c
+fa7b84a26dd6c44cb0d219ef7b2f7e258219b616	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_icu4c

@@ -1,0 +1,5 @@
+6dd072025263e0e7c1ad7882230d6d1e6d09ca5b		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_srec
+6607a0a8ba8966db7f7fdb7f57928cd7fb43b4b3		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_srec
+7390035ea61b32477243d60c452664150b61f023		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_srec
+3d76b1e73925f68d132fd68e0eb5ec7f78c69e85		branch 'ics' of git://github.com/CyanogenMod/android_external_srec
+7390035ea61b32477243d60c452664150b61f023	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_srec

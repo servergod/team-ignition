@@ -1,0 +1,13 @@
+fffa0faff28a34c6e7ed63f464cf56a4aa0b89e8		branch 'donut' of git://github.com/CyanogenMod/android_dalvik
+dd6c2479357965dd3e10c97f6a4d59de9e176557		branch 'eclair' of git://github.com/CyanogenMod/android_dalvik
+51ab0adb191273f9e28441724f1384c31779c125		branch 'froyo' of git://github.com/CyanogenMod/android_dalvik
+51ab0adb191273f9e28441724f1384c31779c125		branch 'froyo-stable' of git://github.com/CyanogenMod/android_dalvik
+f9178ee2c3ce257893ec443d178011db3f107a58		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_dalvik
+adc346da00646ac379db38f36ce347cce15d55fb		branch 'gingerbread' of git://github.com/CyanogenMod/android_dalvik
+895c9616049cd6a0922ce8afb961ae284593d0bb		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_dalvik
+6a9739380c73a0256f2484f2bcd0b8f908a2db52		branch 'ics' of git://github.com/CyanogenMod/android_dalvik
+2fd1331f450192d8e6d5911f99859790d6c1fe9d	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_dalvik
+2fd1331f450192d8e6d5911f99859790d6c1fe9d	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_dalvik
+2fd1331f450192d8e6d5911f99859790d6c1fe9d	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_dalvik
+2fd1331f450192d8e6d5911f99859790d6c1fe9d	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_dalvik
+895c9616049cd6a0922ce8afb961ae284593d0bb	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_dalvik

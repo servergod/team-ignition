@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_packages_apps_Stk
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_packages_apps_Stk
+	fetch = +refs/heads/*:refs/remotes/github/*

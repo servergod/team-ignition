@@ -1,0 +1,6 @@
+2d81a2f1988f5ca7fcfe506c151d8f9f77a2bab8		branch 'eclair' of git://github.com/CyanogenMod/android_packages_providers_CalendarProvider
+f6a98f384783b1d204a0194d130cbd557bb846e8		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_providers_CalendarProvider
+f6a98f384783b1d204a0194d130cbd557bb846e8		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_providers_CalendarProvider
+f6a98f384783b1d204a0194d130cbd557bb846e8		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_providers_CalendarProvider
+5d2ceed510652869d572d7a9182dcaa0cfa6f0cb		branch 'ics' of git://github.com/CyanogenMod/android_packages_providers_CalendarProvider
+f6a98f384783b1d204a0194d130cbd557bb846e8	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_providers_CalendarProvider

@@ -1,0 +1,9 @@
+03d4f2e682c66d40b7ee8bb9f235a1349f8d0954		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_zlib
+2de71c828b9dc10beaadc4da3d650c6f97684e9d		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_zlib
+82f198e4cc45987fd68f151f537cd78d38bdae05		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_zlib
+dd6786cae3f4493faa6661d5f74db587932f15d7		branch 'ics' of git://github.com/CyanogenMod/android_external_zlib
+a19ef6d3826b017cf82f5e8d4291c73851f87321	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_zlib
+a19ef6d3826b017cf82f5e8d4291c73851f87321	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_zlib
+a19ef6d3826b017cf82f5e8d4291c73851f87321	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_zlib
+a19ef6d3826b017cf82f5e8d4291c73851f87321	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_zlib
+82f198e4cc45987fd68f151f537cd78d38bdae05	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_zlib

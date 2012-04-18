@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 f88de2b37383f138b3c7d876bdc3b6b6fae7b728 Indirect <Indirect@localhost.(none)> 1334707394 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/packages/apps/CellBroadcastReceiver.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728 62b8c53ef534557722f5b2ac38bc607b5c901137 Indirect <Indirect@localhost.(none)> 1334707395 -0700	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

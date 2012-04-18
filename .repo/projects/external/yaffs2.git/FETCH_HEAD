@@ -1,0 +1,12 @@
+283d765ea341facab5d47fb402d0820f7e5effea		branch 'eclair' of git://github.com/CyanogenMod/android_external_yaffs2
+9fe7afb4117d1f91ec53bc4719305d5ba7130e86		branch 'froyo' of git://github.com/CyanogenMod/android_external_yaffs2
+9fe7afb4117d1f91ec53bc4719305d5ba7130e86		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_yaffs2
+f2bea5e0b2ddc87a46e75e701cd7c6313d971522		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_yaffs2
+f2bea5e0b2ddc87a46e75e701cd7c6313d971522		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_yaffs2
+f2bea5e0b2ddc87a46e75e701cd7c6313d971522		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_yaffs2
+3c71c041864f7c2eb54bb47bcbd13a34dfc94468		branch 'ics' of git://github.com/CyanogenMod/android_external_yaffs2
+62a1cf4d3ded963f6db6f24d5c5f087d3a4cb4a0	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_yaffs2
+62a1cf4d3ded963f6db6f24d5c5f087d3a4cb4a0	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_yaffs2
+62a1cf4d3ded963f6db6f24d5c5f087d3a4cb4a0	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_yaffs2
+62a1cf4d3ded963f6db6f24d5c5f087d3a4cb4a0	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_yaffs2
+f2bea5e0b2ddc87a46e75e701cd7c6313d971522	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_yaffs2

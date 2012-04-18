@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 ac3a333cbe5321ffa95df77f9fb15efda2bba755 Indirect <Indirect@localhost.(none)> 1334707555 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/packages/apps/VideoEditor.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+ac3a333cbe5321ffa95df77f9fb15efda2bba755 b4dfd2b9ebb2fbd3345e46c26c1b5ff489e79b39 Indirect <Indirect@localhost.(none)> 1334707557 -0700	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

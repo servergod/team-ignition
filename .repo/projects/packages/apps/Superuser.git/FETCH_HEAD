@@ -1,0 +1,12 @@
+8028c084ee6309cdaa341fbb529eed0c14e7695d		branch 'cupcake-donut' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+c07e80a056cf0ad0cff3b92fe82a2663ac67c9bc		branch 'eclair-froyo' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+762680895cfc536cab49b7a263a0be0abc1b33db		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+cbe23197027885da37227085c8189218337b37a1		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+1051b8711d67567c920cc75364cfb7bd7aa253a9		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+46a3bfb91eb8cd1e7ee287e63920d15a25e80b52		branch 'ics' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+c93c35176710985c31d028759763af8e848d1e22		branch 'master' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+be1efd803400f4dea930c3e86aa5ce17f8c0a3dd	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_packages_apps_Superuser
+279bc96542ace24a628d04022d07f1e8328e1db1	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_apps_Superuser

@@ -1,0 +1,8 @@
+07accdedf451560b97a5327f7ed4892e0f377513		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_dropbear
+006603dc413f45ea55c55ce8be5ce5c0c748975e		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_dropbear
+2c36aa94a243de40907019b80dc873346f7d6b86		branch 'ics' of git://github.com/CyanogenMod/android_external_dropbear
+07accdedf451560b97a5327f7ed4892e0f377513		branch 'master' of git://github.com/CyanogenMod/android_external_dropbear
+006603dc413f45ea55c55ce8be5ce5c0c748975e	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_dropbear
+006603dc413f45ea55c55ce8be5ce5c0c748975e	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_dropbear
+006603dc413f45ea55c55ce8be5ce5c0c748975e	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_dropbear
+006603dc413f45ea55c55ce8be5ce5c0c748975e	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_dropbear

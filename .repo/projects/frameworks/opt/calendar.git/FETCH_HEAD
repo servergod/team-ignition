@@ -1,0 +1,22 @@
+0053119c0bc05aedaed9d55cef91806f4c95d535		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/opt/calendar
+bbcfb96060e9b518b810015984081a25c8ae2c26		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+bbcfb96060e9b518b810015984081a25c8ae2c26		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/opt/calendar
+90c6616a33c0d1f948d309cf6c5cf0c64483bd0a		branch 'master' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+bbcfb96060e9b518b810015984081a25c8ae2c26	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+bbcfb96060e9b518b810015984081a25c8ae2c26	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+bbcfb96060e9b518b810015984081a25c8ae2c26	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+9a91eb9d6c3c28b54223dae453c9d456b0c87355	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/opt/calendar
+0053119c0bc05aedaed9d55cef91806f4c95d535	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/opt/calendar

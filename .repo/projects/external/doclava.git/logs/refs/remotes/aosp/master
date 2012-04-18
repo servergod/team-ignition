@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 7ab64e63c47c4b13472f230d22265cd2cd50fef1 Indirect <Indirect@localhost.(none)> 1334707010 -0700	fetch /tank/Indirect/Firestorm/.repo/projects/external/doclava.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+7ab64e63c47c4b13472f230d22265cd2cd50fef1 f0631ff39075e7da2fcae7b52c68a0ad3b0abfd1 Indirect <Indirect@localhost.(none)> 1334707011 -0700	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

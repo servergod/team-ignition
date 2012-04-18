@@ -1,0 +1,13 @@
+22fdda41c341ba23bb1ebc4a97ca527907a31e4a		branch 'donut' of git://github.com/CyanogenMod/android_system_extras
+97629741c09fa38e9c55661c1f951d5bb73d720d		branch 'eclair' of git://github.com/CyanogenMod/android_system_extras
+47e7c4c7a8ec7a8fbd7c9241bf958576c5b65525		branch 'froyo' of git://github.com/CyanogenMod/android_system_extras
+47e7c4c7a8ec7a8fbd7c9241bf958576c5b65525		branch 'froyo-stable' of git://github.com/CyanogenMod/android_system_extras
+bde87cf759b227f010a5d08017071c5c951f2224		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_system_extras
+16eaa18256b3f55ccd5c013ccab64b3e0e46793a		branch 'gingerbread' of git://github.com/CyanogenMod/android_system_extras
+f4fb76e1c628074814bf0e51cf852ac0114de46b		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_system_extras
+fc81dec4f70b052264ce9739aab3d1c7c7848eb0		branch 'ics' of git://github.com/CyanogenMod/android_system_extras
+e9c386c4f8a8741dd40fa486747c35634cce9055	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_system_extras
+e9c386c4f8a8741dd40fa486747c35634cce9055	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_system_extras
+e9c386c4f8a8741dd40fa486747c35634cce9055	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_system_extras
+e9c386c4f8a8741dd40fa486747c35634cce9055	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_system_extras
+f4fb76e1c628074814bf0e51cf852ac0114de46b	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_system_extras

@@ -1,0 +1,5 @@
+041ee6ccda354960ebc1e1ccfff78685ec5326e1		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_oprofile
+041ee6ccda354960ebc1e1ccfff78685ec5326e1		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_oprofile
+041ee6ccda354960ebc1e1ccfff78685ec5326e1		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_oprofile
+387c70bd952c033453fc99da1672fa40af837376		branch 'ics' of git://github.com/CyanogenMod/android_external_oprofile
+041ee6ccda354960ebc1e1ccfff78685ec5326e1	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_oprofile

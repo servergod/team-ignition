@@ -1,0 +1,11 @@
+816a57422a598cf86b6d4b980f12e084e6c64c79		branch 'froyo' of git://github.com/CyanogenMod/android_external_webkit
+816a57422a598cf86b6d4b980f12e084e6c64c79		branch 'froyo-stable' of git://github.com/CyanogenMod/android_external_webkit
+9873acb205aaf2c028eda42f9bb7da12f68ff4c5		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_webkit
+223d1aca7ebcf161969179f59b0a5d7bf4b6cabc		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_webkit
+dcc592df10bcce76be37cf9fa49292e8b132f7d2		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_webkit
+cb4268e7e24894f3405e58a98f3766320da72fc8		branch 'ics' of git://github.com/CyanogenMod/android_external_webkit
+569877056644382a41b722a03cad4c17b402a138	not-for-merge	tag 'cm-7.0.0' of git://github.com/CyanogenMod/android_external_webkit
+569877056644382a41b722a03cad4c17b402a138	not-for-merge	tag 'cm-7.0.1' of git://github.com/CyanogenMod/android_external_webkit
+569877056644382a41b722a03cad4c17b402a138	not-for-merge	tag 'cm-7.0.2.1' of git://github.com/CyanogenMod/android_external_webkit
+569877056644382a41b722a03cad4c17b402a138	not-for-merge	tag 'cm-7.0.3' of git://github.com/CyanogenMod/android_external_webkit
+dcc592df10bcce76be37cf9fa49292e8b132f7d2	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_webkit

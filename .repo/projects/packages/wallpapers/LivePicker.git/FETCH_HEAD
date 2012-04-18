@@ -1,0 +1,5 @@
+662e1dfa5b0274843b53be75119da0c3b8fb18d0		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_packages_wallpapers_LivePicker
+662e1dfa5b0274843b53be75119da0c3b8fb18d0		branch 'gingerbread' of git://github.com/CyanogenMod/android_packages_wallpapers_LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_packages_wallpapers_LivePicker
+c82b1824cb6a9a809818155059c1daf275ac94f1		branch 'ics' of git://github.com/CyanogenMod/android_packages_wallpapers_LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_packages_wallpapers_LivePicker

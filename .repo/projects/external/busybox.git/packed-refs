@@ -1,0 +1,16 @@
+# pack-refs with: peeled 
+d0194cfc47a71a65e049a8b0eab6b6ca3ab50e36 refs/remotes/github/eclair
+e5493a5af57c1ffb0d933faab0700db1c0e5b82f refs/remotes/github/froyo
+e5493a5af57c1ffb0d933faab0700db1c0e5b82f refs/remotes/github/froyo-stable
+bde93867df20d849b248847ad16c213d7bf27551 refs/remotes/github/gb-release-7.2
+bde93867df20d849b248847ad16c213d7bf27551 refs/remotes/github/gingerbread
+80b5cc421a7233d91dc4567ea5d6c0a108c0c6cc refs/remotes/github/gingerbread-legacy
+8a48f9f04f5d0129ca7e7b44f9cd9ce1350e9444 refs/remotes/github/gingerbread-release
+2d546e621ec4d0f8174d8de4e4d1f1700fe39b10 refs/remotes/github/ics
+ede109826c1503b89336bed02325b637b0c955ab refs/remotes/github/koush
+1c5265f5c097c5362cf71879e82b3d74234ac963 refs/remotes/github/master
+411c727c1b9072b0a79e91d68fa142170bfd0e7a refs/tags/cm-7.0.0
+411c727c1b9072b0a79e91d68fa142170bfd0e7a refs/tags/cm-7.0.1
+411c727c1b9072b0a79e91d68fa142170bfd0e7a refs/tags/cm-7.0.2.1
+411c727c1b9072b0a79e91d68fa142170bfd0e7a refs/tags/cm-7.0.3
+8a48f9f04f5d0129ca7e7b44f9cd9ce1350e9444 refs/tags/cm-7.1.0

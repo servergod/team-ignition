@@ -1,0 +1,5 @@
+20968ff8929be0fa67a7cb873827e72ccab23716		branch 'gb-release-7.2' of git://github.com/CyanogenMod/android_external_elfutils
+20968ff8929be0fa67a7cb873827e72ccab23716		branch 'gingerbread' of git://github.com/CyanogenMod/android_external_elfutils
+84cf4183ba6f577ee01abe7f1f5a6d4b23df35a8		branch 'gingerbread-release' of git://github.com/CyanogenMod/android_external_elfutils
+09a042d23b77b505380ac451516acaff4810c01a		branch 'ics' of git://github.com/CyanogenMod/android_external_elfutils
+84cf4183ba6f577ee01abe7f1f5a6d4b23df35a8	not-for-merge	tag 'cm-7.1.0' of git://github.com/CyanogenMod/android_external_elfutils

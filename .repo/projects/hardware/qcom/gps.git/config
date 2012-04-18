@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "github"]
+	url = git://github.com/CyanogenMod/android_hardware_qcom_gps
+	review = review.cyanogenmod.com
+	projectname = CyanogenMod/android_hardware_qcom_gps
+	fetch = +refs/heads/*:refs/remotes/github/*
